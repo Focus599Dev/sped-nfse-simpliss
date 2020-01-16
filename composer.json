@@ -11,7 +11,7 @@
             "email": "marlon.academi@gmail.com",
             "homepage": "https://github.com/Focus599Dev/sped-nfse-simpliss",
             "role": "Developer"
-        },
+        }
     ],
     "require": {
         "php" : ">= 7.0",

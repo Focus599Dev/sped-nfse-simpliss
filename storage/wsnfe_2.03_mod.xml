@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <municipio>
+        <homologacao>
+            <ConsultarNfseServicoTomado method="ConsultarNfseServicoTomado" operation="ConsultarNfseServicoTomado" version="2.0.3">https://wshomologacaoabrasf.simplissweb.com.br/nfseservice.svc</ConsultarNfseServicoTomado>
+        </homologacao>
+        <producao>
+            <ConsultarNfseServicoTomado method="ConsultarNfseServicoTomado" operation="ConsultarNfseServicoTomado" version="2.0.3">https://wshomologacaoabrasf.simplissweb.com.br/nfseservice.svc</ConsultarNfseServicoTomado>
+        </producao>
+    </municipio>
+</WS>
